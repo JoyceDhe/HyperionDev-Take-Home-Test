@@ -8,6 +8,7 @@ Based on the this blog post, there is a certain style guide for python code: Ind
 
 Documentation The function name 'groupAnagrams' specifies exactly what the logic 'inside' of it is achieving which is grouping anagrams. Dictionary variable 'result' could do with a more straightforward name like 'grouped_anagrams' The variables in the loop could do with better naming; i='string' and x='sorted_string'. It will make for better code readability and maintainability
 
+
 Option2-Java Task
 
 Correctness: 2/4
